@@ -1,0 +1,2 @@
+# termp
+termproject: jeju tour
