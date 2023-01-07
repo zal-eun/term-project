@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# termp
-termproject: jeju tour
+
 =======
 # term-project
 jeju tour result
